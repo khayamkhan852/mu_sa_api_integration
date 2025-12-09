@@ -1,7 +1,7 @@
 [project]
 name = "mu_sa_api_integration"
 authors = [
-    { name = "Arslan", email = "malikarslan000009@gmail.com"}
+    { name = "Khayam Khan", email = "khayamkhan852@gmail.com"}
 ]
 description = "Api integration"
 requires-python = ">=3.10"

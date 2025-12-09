@@ -1,8 +1,8 @@
 app_name = "mu_sa_api_integration"
 app_title = "Mu Sa Api Integration"
-app_publisher = "Arslan"
+app_publisher = "Khayam Khan"
 app_description = "Api integration"
-app_email = "malikarslan000009@gmail.com"
+app_email = "khayamkhan852@gmail.com"
 app_license = "mit"
 
 # Apps
